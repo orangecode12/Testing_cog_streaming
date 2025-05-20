@@ -61,6 +61,3 @@ Prediction started: {'input': {'prompt': 'The quick brown fox jumps over the laz
 ```
 
 ---
-
-**That’s a complete, minimal Cog streaming + webhook example!**  
-Let me know if you want a version that streams characters, or if you have any questions about deployment or networking.
