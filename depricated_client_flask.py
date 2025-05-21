@@ -15,4 +15,4 @@ def start_prediction(prompt):
     print("Prediction started:", resp.json())
 
 if __name__ == "__main__":
-    start_prediction("The quick brown fox jumps over the lazy dog")
+    start_prediction("The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog")

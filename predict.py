@@ -10,5 +10,5 @@ class Predictor(BasePredictor):
         """Stream tokens (words) from the prompt, one at a time."""
         tokens = prompt.split()
         for token in tokens:
-            time.sleep(1)
+            time.sleep(0.2)
             yield token + " "
