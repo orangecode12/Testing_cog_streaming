@@ -6,10 +6,10 @@ docker run -p 5002:5000 simple-cog-streaming
 
 ## How to run webhook server:
 
-python webhook_alone.py
+python webhook_simple.py
 
 
-## How to start the client:**
+## How to start the client:
 
-python test_webhook_alone.py
+python client.py
 
