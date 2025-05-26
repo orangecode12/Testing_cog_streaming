@@ -1,5 +1,6 @@
 ## How to build cog container:
 cog build -t simple-cog-streaming
+
 docker run -p 5002:5000 simple-cog-streaming
 
 ---
