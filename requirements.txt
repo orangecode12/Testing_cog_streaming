@@ -1,0 +1,4 @@
+cog
+flask
+requests
+sseclient
